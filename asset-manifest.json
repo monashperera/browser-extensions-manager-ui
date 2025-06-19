@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/browser-extensions-manager-ui/static/css/main.fcbcb7b4.css",
-    "main.js": "/browser-extensions-manager-ui/static/js/main.4aa6db7d.js",
+    "main.js": "/browser-extensions-manager-ui/static/js/main.8466b9f7.js",
     "static/js/488.ec0148da.chunk.js": "/browser-extensions-manager-ui/static/js/488.ec0148da.chunk.js",
     "static/media/noto-sans-v39-latin-500.woff2": "/browser-extensions-manager-ui/static/media/noto-sans-v39-latin-500.6c6614a1372080aebb13.woff2",
     "static/media/noto-sans-v39-latin-700.woff2": "/browser-extensions-manager-ui/static/media/noto-sans-v39-latin-700.6d3b8182d14470a1d7e1.woff2",
@@ -24,11 +24,11 @@
     "static/media/icon-sun.svg": "/browser-extensions-manager-ui/static/media/icon-sun.6bef86cf311023651f26481291859e12.svg",
     "static/media/icon-moon.svg": "/browser-extensions-manager-ui/static/media/icon-moon.894a1ef642e0f67d13003df0ae772bdf.svg",
     "main.fcbcb7b4.css.map": "/browser-extensions-manager-ui/static/css/main.fcbcb7b4.css.map",
-    "main.4aa6db7d.js.map": "/browser-extensions-manager-ui/static/js/main.4aa6db7d.js.map",
+    "main.8466b9f7.js.map": "/browser-extensions-manager-ui/static/js/main.8466b9f7.js.map",
     "488.ec0148da.chunk.js.map": "/browser-extensions-manager-ui/static/js/488.ec0148da.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fcbcb7b4.css",
-    "static/js/main.4aa6db7d.js"
+    "static/js/main.8466b9f7.js"
   ]
 }

@@ -180,8 +180,8 @@ p, h1, h2, h3, h4, h5, h6 {
 }
 
 .container {
-    max-width: 1170px;
-    width: 1170px;
+    max-width: 73.125rem;
+    width: 73.125rem;
     height: 100%;
 }
 
@@ -228,7 +228,7 @@ p, h1, h2, h3, h4, h5, h6 {
 
 .btn-filter-active {
     border-color: var(--filter-active-border);
-    color: var(--filter-active-color) !important;
+    color: var(--filter-active-color);
     background-color: var(--filter-active-bg);
     -webkit-transition: background-color .3s ease-in;
     transition: background-color .3s ease-in;
@@ -435,7 +435,7 @@ header .container {
 
 @media only screen and (max-width: 1169px) {
     body {
-        padding: 1.5rem 0.625rem 0;
+        padding: 1.5rem 0.625rem 0rem;
     }
 
     .container {

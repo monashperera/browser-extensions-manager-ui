@@ -10,6 +10,7 @@ export default function ThemeSwitcher() {
                 className="btn-theme-switcher"
                 onClick={toggleTheme}
                 aria-label="Theme switcher"
+                type='button'
             >
                 {theme &&
                     theme === 'light' ? <Moon /> : <Sun />

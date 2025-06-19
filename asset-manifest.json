@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/browser-extensions-manager-ui/static/css/main.ce2922ea.css",
-    "main.js": "/browser-extensions-manager-ui/static/js/main.65d10a84.js",
+    "main.css": "/browser-extensions-manager-ui/static/css/main.fcbcb7b4.css",
+    "main.js": "/browser-extensions-manager-ui/static/js/main.4aa6db7d.js",
     "static/js/488.ec0148da.chunk.js": "/browser-extensions-manager-ui/static/js/488.ec0148da.chunk.js",
     "static/media/noto-sans-v39-latin-500.woff2": "/browser-extensions-manager-ui/static/media/noto-sans-v39-latin-500.6c6614a1372080aebb13.woff2",
     "static/media/noto-sans-v39-latin-700.woff2": "/browser-extensions-manager-ui/static/media/noto-sans-v39-latin-700.6d3b8182d14470a1d7e1.woff2",
@@ -23,12 +23,12 @@
     "static/media/logo-tab-master-pro.svg": "/browser-extensions-manager-ui/static/media/logo-tab-master-pro.f9aa72a44199e67057e8.svg",
     "static/media/icon-sun.svg": "/browser-extensions-manager-ui/static/media/icon-sun.6bef86cf311023651f26481291859e12.svg",
     "static/media/icon-moon.svg": "/browser-extensions-manager-ui/static/media/icon-moon.894a1ef642e0f67d13003df0ae772bdf.svg",
-    "main.ce2922ea.css.map": "/browser-extensions-manager-ui/static/css/main.ce2922ea.css.map",
-    "main.65d10a84.js.map": "/browser-extensions-manager-ui/static/js/main.65d10a84.js.map",
+    "main.fcbcb7b4.css.map": "/browser-extensions-manager-ui/static/css/main.fcbcb7b4.css.map",
+    "main.4aa6db7d.js.map": "/browser-extensions-manager-ui/static/js/main.4aa6db7d.js.map",
     "488.ec0148da.chunk.js.map": "/browser-extensions-manager-ui/static/js/488.ec0148da.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ce2922ea.css",
-    "static/js/main.65d10a84.js"
+    "static/css/main.fcbcb7b4.css",
+    "static/js/main.4aa6db7d.js"
   ]
 }

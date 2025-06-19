@@ -44,6 +44,7 @@ export default function ExtensionCard() {
                             <button
                                 className="btn-remove"
                                 onClick={() => removeExtension(data.id)}
+                                type='button'
                             >Remove</button>
                             <div className="toggle-container">
                                 <input
